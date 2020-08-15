@@ -15,9 +15,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: she/her
 
 
-- 📫 How to reach me: 
-
-- 👥 [LinkedIn](https://www.linkedin.com/in/sangeeta-jha-765232142/)
-- 🐦 [Twitter](https://twitter.com/nehasangeetajha)
-- ✏️ [Medium](https://medium.com/@nehasangeetajha)
--  👩‍💻[CodeChef](https://www.codechef.com/users/sangeetajha)
+- 📫 How to reach me:  👥 [LinkedIn](https://www.linkedin.com/in/sangeeta-jha-765232142/)  🐦 [Twitter](https://twitter.com/nehasangeetajha) ✏️ [Medium](https://medium.com/@nehasangeetajha)  👩‍💻[CodeChef](https://www.codechef.com/users/sangeetajha)
