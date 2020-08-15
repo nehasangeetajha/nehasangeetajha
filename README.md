@@ -17,7 +17,9 @@
 </a>
 <a href="https://medium.com/@nehasangeetajha">
   <img align="left" alt="Sangeeta's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a>  
+
+<p>&nbsp;</p>
 
 - 🔭 I’m currently working on [PsychHelp](https://github.com/Anagha-2000/PsychHelp)
 - 🌱 I’m currently learning [React JS](https://github.com/nehasangeetajha/Front-End-Development-With-React) and [DSA in CPP](https://github.com/nehasangeetajha/AatmaNirbhar)
