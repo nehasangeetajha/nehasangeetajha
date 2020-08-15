@@ -12,9 +12,13 @@
 <a href="https://github.com/nehasangeetajha">
   <img align="left" alt="Sangeeta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.codechef.com/users/sangeetajha">
-  <img align="left" alt="Sangeeta's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://leetcode.com/nehasangeetajha/">
+  <img align="left" alt="Sangeeta's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://www.codechef.com/users/sangeetajha">
+  <img align="left" alt="Sangeeta's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
 <a href="https://medium.com/@nehasangeetajha">
   <img align="left" alt="Sangeeta's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>  
