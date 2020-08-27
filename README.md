@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning [React JS](https://github.com/nehasangeetajha/Front-End-Development-With-React) and [DSA in CPP](https://github.com/nehasangeetajha/AatmaNirbhar)
 - 💬 Ask me about DSA and Vue JS
 - ⚡ Motivation: "Failure will never overtake me if my determination to succeed is strong enough."-  APJ Abdul Kalam
-- 😄 Pronouns: she/her
+- 😄 Lead @ DSC IGDTUW
 
 ![Sangeeta Jha Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=nehasangeetajha&show_icons=true&include_all_commits=true&theme=radical)
 
