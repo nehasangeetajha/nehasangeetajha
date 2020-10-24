@@ -25,8 +25,8 @@
 
 <p>&nbsp;</p>
 
-- 🔭 I’m currently working on [PsychHelp](https://github.com/Anagha-2000/PsychHelp)
-- 🌱 I’m currently learning [React JS](https://github.com/nehasangeetajha/Front-End-Development-With-React) and [DSA in CPP](https://github.com/nehasangeetajha/AatmaNirbhar)
+- 🔭 I’m currently working on [ZerotoHero](https://github.com/dscigdtuw/ZerotoHero)
+- 🌱 I’m currently learning [React JS](https://github.com/nehasangeetajha/Front-End-Development-With-React)
 - 💬 Ask me about DSA and Vue JS
 - ⚡ Motivation: "Failure will never overtake me if my determination to succeed is strong enough."-  APJ Abdul Kalam
 - 😄 Lead @ DSC IGDTUW
