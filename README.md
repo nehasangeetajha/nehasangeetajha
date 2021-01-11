@@ -22,7 +22,7 @@
 
 <p>&nbsp;</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehasangeetajha" alt="mansi35" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehasangeetajha" alt="nehasangeetajha" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasabgeetajha&label=Views&color=blue&style=plastic" /> </p>
 
